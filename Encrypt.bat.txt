@@ -1,0 +1,2 @@
+@py.exe D:\WorkDir\Cipher.py E D:\SourceDir D:\DestDir Key
+pause
